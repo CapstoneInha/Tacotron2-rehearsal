@@ -5,7 +5,7 @@ next you can install the requirements using:
 
 > pip install -r requirements.txt
 
-# Dataset:
+# Basic Dataset:
 We tested the code above on the [ljspeech dataset](https://keithito.com/LJ-Speech-Dataset/), which has almost 24 hours of labeled single actress voice recording. (further info on the dataset are available in the README file when you download it)
 
 After **downloading** the dataset, **extract** the compressed file, and **place the folder inside the cloned repository.**
